@@ -957,7 +957,7 @@ PROGRESS$MYAH$MYAH$FALSE
 100
 {CE334582-AC0D-15E8-5D5B-9464C3172C37}
 COMMAND_DESCRIPTION$MYAH$MYAH$FALSE
-Tapping Apple Homebrew$NEWLINE$apple/apple http://github.com/apple/homebrew-apple
+Tapping Apple Homebrew$NEWLINE$apple/apple https://github.com/apple/homebrew-apple
 {76D9E9B4-86AC-8DF3-6FA7-7EE3EB112FF6}
 PROGRESS$MYAH$MYAH$FALSE
 50
@@ -1065,7 +1065,7 @@ DMGPATHEX$MYAH$MYAH$FALSE
 
 {E3C7C0FA-6D77-1B34-CB54-81D7856F1730}
 LOGGED_COMMAND$MYAH$MYAH$FALSE
-/usr/local/bin/brew tap apple/apple http://github.com/apple/homebrew-apple
+/usr/local/bin/brew tap apple/apple https://github.com/apple/homebrew-apple
 {474ABB09-D7FC-8B0B-A055-8834E5FA0AB5}
 COMMAND_DESCRIPTION$MYAH$MYAH$FALSE
 Downloading and Installing Wine$NEWLINE$(this will take an extended amount of time)
